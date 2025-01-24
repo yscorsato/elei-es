@@ -35,3 +35,20 @@ while True:
         print(e)
 print(' ')
 
+while True:
+    try:
+        candidato1 = input("Partido do candidato 1: ")
+        if not candidato1.isnumeric():
+            raise ValueError("Erro: Apenas números são permitidos.")
+        break
+    except ValueError as e:
+        print(e)
+
+while True:
+    try:
+        candidato2 = input("Partido do candidato 2: ")
+        if not candidato2.isnumeric():
+            raise ValueError("Erro: Apenas números são permitidos.")
+        break
+    except ValueError as e:
+        print(e)
