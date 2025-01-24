@@ -1,4 +1,4 @@
 Quero criar um programa de eleição para testar meus conhecimentos até agora.
-Estou criando um programa sobre o segundo turno de uma eleição, onde teremso o candidato 1 e o candidato 2, quero
-inscrever os candidatos 1 e 2, e os eleitores precisarão ser verificados no sistema para poderem votar, terá gráfico
-dos candidatos e porcentagem.
+Um programa sobre as eleições no segundo turno, terá 2 candidatos que precisarão se inscrever como candidatos. E terá os
+eleitores, que vão ter que se indentificar com seu CPF e título de eleitor, vão ser identificados e verificados  para
+poderem votar. Na hora da votação terão que votar em seu candidato e confirmar.
